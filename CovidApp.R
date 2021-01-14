@@ -6,7 +6,16 @@
 #
 #    http://shiny.rstudio.com/
 #
-
+install.packages("shiny")
+install.packages("readxl")
+install.packages("tidyverse")
+install.packages("leaflet")
+install.packages("stringr")
+install.packages("sf")
+install.packages("here")
+install.packages("widgetFrame")
+install.packages("spData")
+install.packages("tigris")
 library(shiny)
 library(readxl)
 library(tidyverse)
